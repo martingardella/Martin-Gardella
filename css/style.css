@@ -128,6 +128,7 @@ body{
 .conteiner1 .footer p{
 	text-align: right;
 }
+
 .conteiner1 .navegacionbar{
     list-style-type: none;
     margin: 0;
@@ -135,7 +136,7 @@ body{
     overflow: hidden;
     background-color: #333;
     grid-area: navegacionbar;
-  }
+}
   
 .conteiner1 .navegacionbar li{
     float: left;
@@ -147,7 +148,7 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
- }
+}
 
 .conteiner1 .logon{
  background: none;
@@ -160,10 +161,12 @@ body{
 	width:295%;
 	margin: 0;
 }
+
 .conteiner1 .logon-service{
 	background: none;
 	padding: 0;
-   }
+}
+
 .conteiner1 .logon-service img{
 	border-radius: 4px;
 	height: auto;
@@ -192,7 +195,7 @@ body{
 	height: 20%;
 }
 
-.conteiner1 .sidebar div.partners {
+.conteiner1 .sidebar div.partners{
 	padding: 10%;
 	height: 50%;
 }
@@ -244,12 +247,12 @@ body{
 	transform-origin: 0 0;
 }
   
-  .ml1 .line1 { top: 0; }
-  .ml1 .line2 { bottom: 0; }
+.ml1 .line1{ top: 0;}
+.ml1 .line2{ bottom: 0;}
 
-  .ml1 .letter h1 {
-	  font-weight: 300;
- }
+.ml1 .letter h1{
+	font-weight: 300;
+}
 
 .conteiner1 .contenido h2.servcom{
 	color: #009ec8;
@@ -312,7 +315,7 @@ body{
 						 "widget-1 widget-1 widget-1"
 						 "widget-2 widget-2 widget-2"
 						 "footer footer footer";
-	}
+}
 
 	
 .conteiner1 .sidebar{
