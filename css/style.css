@@ -85,17 +85,17 @@ body {
 	justify-content: center;
 }
 
-.conteiner1 .widget-1 p {
+.conteiner1 .widget-1 p{
 	padding: 5;
 }
 
-.conteiner1 .widget-1 iframe {
+.conteiner1 .widget-1 iframe{
 	padding: 20px;
 	width: 300;
 	height: 200;
 }
 
-.conteiner1 .widget-2 {
+.conteiner1 .widget-2{
 	background: #975341;
 	color: #fff;
 	height: 200px;
@@ -105,30 +105,30 @@ body {
 	justify-content: center;
 }
 
-.conteiner1 .widget-2 iframe {
+.conteiner1 .widget-2 iframe{
 	padding: 20px;
 	width: 400;
 	height: 250;
 }
 
-.conteiner1 .widget-1 {
+.conteiner1 .widget-1{
 	grid-area: widget-1;
 }
 
-.conteiner1 .widget-2 {
+.conteiner1 .widget-2{
 	grid-area: widget-2;
 }
 
-.conteiner1 .footer {
+.conteiner1 .footer{
 	background: #020c22;
 	color: #fff;
 	grid-area: footer;
 }
 
-.conteiner1 .footer p {
+.conteiner1 .footer p{
 	text-align: right;
 }
-.conteiner1 .navegacionbar {
+.conteiner1 .navegacionbar{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -137,11 +137,11 @@ body {
     grid-area: navegacionbar;
   }
   
-.conteiner1 .navegacionbar li {
+.conteiner1 .navegacionbar li{
     float: left;
 }
   
-.conteiner1 .navegacionbar li a {
+.conteiner1 .navegacionbar li a{
     display: block;
     color: white;
     text-align: center;
@@ -149,7 +149,7 @@ body {
     text-decoration: none;
  }
 
-.conteiner1 .logon {
+.conteiner1 .logon{
  background: none;
  padding: 0;
 }
@@ -160,7 +160,7 @@ body {
 	width:295%;
 	margin: 0;
 }
-.conteiner1 .logon-service {
+.conteiner1 .logon-service{
 	background: none;
 	padding: 0;
    }
@@ -171,22 +171,22 @@ body {
 	margin: 0;
 }
 
-.conteiner1 .logon-cont {
+.conteiner1 .logon-cont{
 	background: none;
 	padding: 0;
 }
 
-.conteiner1 .logon-cont img {
+.conteiner1 .logon-cont img{
 	border-radius: 4px;
 	height: auto;
 	width:312%;
 	margin: 0;
 }
-.conteiner1 .sidebar {
+.conteiner1 .sidebar{
 	padding: 0;
 }
 
-.conteiner1 .sidebar img {
+.conteiner1 .sidebar img{
 	width: 60%;
 	height: 20%;
 }
@@ -196,12 +196,12 @@ body {
 	height: 50%;
 }
 
-.conteiner1 .sidebar div.partners img {
+.conteiner1 .sidebar div.partners img{
 	width: 60%;
 	height: 20%;
 }
 
-.conteiner1 .sidebar div.sidebar-contact {
+.conteiner1 .sidebar div.sidebar-contact{
 	width: 90%;
 	height: 90%;
 }
