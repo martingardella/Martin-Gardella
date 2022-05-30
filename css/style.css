@@ -37,7 +37,7 @@ body{
 .conteiner1 .sidebar,
 .conteiner1 .footer{
 	background: #fff;
-	padding: 20px;
+	padding: 20888px;
 	border-radius: 4px;
 }
 
@@ -295,15 +295,13 @@ body{
 
 .fa{
 	padding: 0;
-	font-size: 25888px;
+	font-size: 25px;
 	width: 5;
 	text-align: center;
 	text-decoration: none;
 	margin: 5px 2px;
 }
 
-#5
-  
 .fa:hover{
 	  opacity: 0.7;
 }
