@@ -37,9 +37,14 @@ body{
 .conteiner1 .sidebar,
 .conteiner1 .footer{
 	background: #fff;
-	padding: 15px;
+	padding: 10px;
 	border-radius: 4px;
 }
+
+
+
+
+
 
 .conteiner1 .header{
 	background: #020c22;
@@ -297,8 +302,8 @@ body{
 
 .fa-instagram{
 	color: white;
-	float: right;
-	width: 45%;
+	float: left;
+	width: 1%;
 }
 
 
