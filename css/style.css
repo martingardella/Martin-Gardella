@@ -294,7 +294,7 @@ body{
   
 .fa-instagram{
 	color: white;
-	text-align: center;
+	float: right;
 }
 
 .fa-laptop{
